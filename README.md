@@ -26,8 +26,8 @@ Antes de começar, certifique-se de ter instalado:
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/crossword-game.git
-   cd crossword-game
+   git clone https://github.com/rodrigosantoscosta/crosswordsScan.git
+   cd crosswordsScan
    ```
 
 2. **Instale as dependências**
@@ -52,7 +52,7 @@ Antes de começar, certifique-se de ter instalado:
 ## 📁 Estrutura do Projeto
 
 ```
-crossword-game/
+crossword/
 ├── src/
 │   ├── App.jsx          # Componente principal
 │   ├── Crossword.jsx    # Lógica do jogo de palavras cruzadas
@@ -72,5 +72,3 @@ crossword-game/
 - `npm run dev` - Inicia o servidor de desenvolvimento
 - `npm run build` - Cria a versão de produção
 - `npm run preview` - Visualiza a versão de produção localmente
-
-
